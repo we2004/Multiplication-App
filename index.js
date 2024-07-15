@@ -57,8 +57,6 @@ function theChecker(answer) {
     }
 }
 
-function animatePress() {
 
-}
 
 
